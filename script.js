@@ -34,7 +34,7 @@ function play() {
       Swal.fire({
         title: "Hurray! You are a winner!",
         imageUrl:
-          "https://images.pexels.com/photos/260024/pexels-photo-260024.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+          "https://img.freepik.com/premium-vector/realistic-golden-trophy-with-gold-laurel-wreath-ribbon_48799-147.jpg?w=2000",
         imageAlt: "Victory!",
       });
     }
